@@ -1,2 +1,3 @@
 # Relogio-digital
-Criando um projeto de relogio digital interativo
+Relogio digital Copa do Mundo
+
