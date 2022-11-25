@@ -1,0 +1,15 @@
+.navbar-brand{
+    animation: brilhando 5s ease-in-out infinite;
+}
+
+@keyframes brilhando{
+    0%{
+        filter: brightness(1) contrast(1) saturate(1);
+    }
+    50%{
+        filter: brightness(1.5) contrast(1.3) saturate(1.3) drop-shadow(0px 0px 50px white);
+    }
+    100%{
+        filter: brightness(1.5) contrast(1.5) saturate(1.5) drop-shadow(0px 0px 100px white);
+    }
+}
