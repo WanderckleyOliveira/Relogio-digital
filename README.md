@@ -17,3 +17,24 @@ Relogio digital Copa do Mundo
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
  
 </p>
+
+## Lingaguem
+ 
+ - HTML
+ - CSS
+ - JavaScript 
+
+  ## Redes Sociais
+
+<a href="https://www.linkedin.com/in/wanderckley-oliveira-dev/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
+</p>  
+<a href="https://github.com/WanderckleyOliveira" alt="Linkedin">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p> 
+
+  ## Licença
+
+MIT
+
+**Software Livre**
