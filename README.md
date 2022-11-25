@@ -1,10 +1,13 @@
 # Relogio-digital
-Relogio digital Copa do Mundo
 ![Logo do projeto](https://user-images.githubusercontent.com/103123262/204060677-9d7fc132-576b-4811-baf1-a2b747280fc0.jpg)
 
 # Link 
 
  [Click e acesse o site do projeto](https://relogio-digital-copa.netlify.app/)
+
+ # 🌎 Apresentação do Projeto
+
+Site de um relogio digital ao vivo, foi criado para testar os conhecimento que vim adquerindo estudando HTLM, CSS e encrementando um pouco de JavaScript que é a linguagem que vou entra de cabeço no momento.
 
 ## 💻 Technologies & Tools
 
